@@ -89,5 +89,8 @@ r2---sn-npoeener.googlevideo.com
 r5---sn-npoeenez.googlevideo.com
 r1---sn-npoeenl7.googlevideo.com
 r3---sn-poqvn5u-jb36.googlevideo.com
+r4---sn-npoe7ne6.googlevideo.com
+r2---sn-npoe7ne7.googlevideo.com
+r4---sn-npoeenek.googlevideo.com
 r1---sn-npoe7ne7.googlevideo.com
 r3---sn-npoeen7d.googlevideo.com
