@@ -5,6 +5,10 @@
 
 #main
 advertisment
+r5---sn-i3b7kn7z.googlevideo.com
+r2---sn-npoe7nes.googlevideo.com
+r1---sn-jx25uoxu-jb3l.googlevideo.com
+securepubads.g.doubleclick.net
 r3---sn-npoeenl7.googlevideo.com
 r1---sn-npoeenee.googlevideo.com
 r2---sn-npoe7n7y.googlevideo.com
