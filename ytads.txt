@@ -114,3 +114,8 @@ r3---sn-npoeen7d.googlevideo.com
 ^r\d+---sn-vgqs[a-z0-9]{4}\.googlevideo\.com$
 ^r(?:100|[1-9]\d|\d)---sn-vgqs[a-z0-9]{4}\.googlevideo\.com$
 ^r(?:100|[1-9]\d|\d)---sn-vgqs(?:rne(?:s|z)|kne(?:s|z)|knlz|kn7e|7ney|kne6|kn76|7ns7|ener|kn7z|knek|7nly)\.googlevideo\.com$
+ad.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+r2---sn-2uuxa3vh-ngbl.googlevideo.com
+*.googlevideo.com
